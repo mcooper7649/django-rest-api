@@ -17,4 +17,9 @@ register MovieData in admin.py
 refresh admin panel
 
 ## Create serializers.py
+
 # django-rest-api
+
+## Setup view.py
+
+## Setup urls.py
